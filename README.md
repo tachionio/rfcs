@@ -9,5 +9,5 @@ The "RFC" (request for comments) process is intended to provide a consistent and
 
 | Number | Subject                                                      | Status   |
 | ------ | ------------------------------------------------------------ | -------- |
-| 0001   | [Node architecture and services](content/rfc-0001/rfc-0001.md) | proposed |
+| 0001   | [Node architecture and services](contents/rfc-0001/rfc-0001.md) | proposed |
 
